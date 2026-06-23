@@ -14,6 +14,14 @@
 		{
 			"Name": "LandscapePatch",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
